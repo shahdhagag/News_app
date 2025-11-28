@@ -32,12 +32,11 @@ The app supports categories, smooth UI, and an in-app WebView reader to view ful
 
 ---
 
-## 📦 Dependencies  
-These packages are used in the project:
+## 📦 dependencies:
+  cupertino_icons: ^1.0.8  
+  dio: ^5.9.0  
+  cached_network_image: ^3.4.1  
+  shimmer: ^3.0.0  
+  skeletonizer: ^2.1.1  
+  webview_flutter: ^4.13.0  
 
-  cupertino_icons: ^1.0.8
-  dio: ^5.9.0
-  cached_network_image: ^3.4.1
-  shimmer: ^3.0.0
-  skeletonizer: ^2.1.1
-  webview_flutter: ^4.13.0
